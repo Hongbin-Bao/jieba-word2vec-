@@ -9,7 +9,8 @@ test.py可以忽略，只需要运行word2vec.py就可以 实现将txt文件里�
 
 新手nlp上路  欢迎star
 
-代码参考链接：https://blog.csdn.net/qq_28840013/article/details/89681499?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-2.control&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-2.control
+代码参考链接：
 
 https://blog.csdn.net/sk_berry/article/details/105157066
+
 https://blog.csdn.net/laobai1015/article/details/86084641?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-3.control&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-3.control
